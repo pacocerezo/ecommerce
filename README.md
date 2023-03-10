@@ -10,6 +10,8 @@ Photos ecommerce website built with React Js as part of the Frontend Developer C
 
 ## App:
 
+Photos are gathered through an API an arranged in a modern looking CSS grid.
+
 Every Pic have two dynamic icons on their top corners that allows you to mark/unmark as favorite and to add/remove to the cart.
 
 Cart icon on the top right corner will change into a full one when pics to buy are selected, by clicking it you'll be redirected to the cart page, where you have the option to delete some of the pics if you don't want them anymnore by a dynamic trash icon, or just place the fictional order.
