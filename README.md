@@ -1,6 +1,6 @@
-# Bookmark Lite
+# ECOMMERCE
 
-![MAIN](https://user-images.githubusercontent.com/111921924/224299498-8b41adb7-1eaa-4034-acca-a01dcd28ef4c.png)
+![MAIN](https://user-images.githubusercontent.com/111921924/224305251-847a14db-e1ad-4461-a317-cdab449ed618.png)
 
 ### Try at: https://ecommerce-lwq0.onrender.com/
 
